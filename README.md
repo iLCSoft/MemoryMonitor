@@ -1,7 +1,7 @@
 # MemoryMonitor
 [![Build Status](https://travis-ci.org/iLCSoft/MemoryMonitor.svg?branch=master)](https://travis-ci.org/iLCSoft/MemoryMonitor)
 
-MemoryMonitor is a memory monitory application for Marlin
+MemoryMonitor is a memory monitoring application for Marlin
 
 MemoryMonitor is distributed under the [GPLv3 License](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
