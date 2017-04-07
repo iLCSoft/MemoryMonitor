@@ -1,5 +1,6 @@
 # MemoryMonitor
 [![Build Status](https://travis-ci.org/iLCSoft/MemoryMonitor.svg?branch=master)](https://travis-ci.org/iLCSoft/MemoryMonitor)
+[![Coverity Scan Build Status](https://scan.coverity.com/projects/12367/badge.svg)](https://scan.coverity.com/projects/ilcsoft-memorymonitor)
 
 MemoryMonitor is a memory monitoring application for Marlin
 
